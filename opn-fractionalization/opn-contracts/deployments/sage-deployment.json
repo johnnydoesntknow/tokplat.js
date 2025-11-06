@@ -1,0 +1,16 @@
+{
+  "network": "sage",
+  "chainId": 403,
+  "contracts": {
+    "KYCRegistry": "0x097774d0Ae34988C108b0609298Abe993B8e4b39",
+    "OPNFractionalization": "0x020A7AeE2e541f15e12628785E57FeD1CC099Fa9"
+  },
+  "configuration": {
+    "baseURI": "https://api.opn-fractionalization.com/metadata/",
+    "feeRecipient": "0xde2f6e7b644de5a6ce80f6da66714517f3c751c6",
+    "platformFee": "250"
+  },
+  "deployer": "0xde2F6E7b644De5A6Ce80f6Da66714517F3C751c6",
+  "blockNumber": 2080020,
+  "timestamp": "2025-11-06T09:26:42.567Z"
+}
