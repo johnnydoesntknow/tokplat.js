@@ -1,0 +1,19 @@
+{
+  "network": "sage",
+  "chainId": 403,
+  "contract": {
+    "OPNFractionalization": "0xFc20320Fc3F1208b6fF4dd5c13350f87987AE410"
+  },
+  "configuration": {
+    "baseURI": "https://api.opn-fractionalization.com/metadata/",
+    "feeRecipient": "0xD715011858545620E23ac58dB8c9c1bE212A41E5",
+    "platformFee": "250",
+    "alphaMode": true,
+    "kycEnabled": false,
+    "weightedShares": true,
+    "maxSupply": "1000000"
+  },
+  "deployer": "0xD715011858545620E23ac58dB8c9c1bE212A41E5",
+  "blockNumber": 2166816,
+  "timestamp": "2025-11-07T22:40:32.204Z"
+}
